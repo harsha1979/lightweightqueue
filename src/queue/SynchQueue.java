@@ -14,7 +14,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * order. We can specify the maximum queue length.
  *
  * @param <T> the type of elements held in this queue that implements the
- *            Serializable interface.
+ *            Serializable interface. X1
  * @see ExecutionEngine
  */
 public class SynchQueue<T extends Serializable> {
